@@ -6,8 +6,9 @@ title: Illia Dainatovych's Resume
 Software Engineer
 
 <div id="webaddress">
-<a href="mailto:idainatovych@gmail.com">idainatovych@gmail.com</a>
-| <a href="tel:+1 (206) 445-0638">+1 (206) 445-0638</a>
+<span class="city"> Los Angeles,&nbsp;<img src="./media/ca_flag.svg" width=32 /></span>
+| <a href="mailto:idainatovych@gmail.com">idainatovych@gmail.com</a>
+| <a href="tel:+1 (206) 445-0638">+1 (650) 680-7943</a>
 | <a href="https://www.linkedin.com/in/illia-dainatovych/">My LinkedIn</a>
 </div>
 
@@ -23,13 +24,16 @@ Started a career as a frontend developer / UI designer, and now a full-stack Jav
 JavaScript, TypeScript  HTML, CSS, css-in-js, CSS preprocessors, React/Redux, Mobx, AngularJS, jQuery
 
 `Backend`
-Node.js, Express.js, Python, Django, Sequelize, PostgreSQL, MongoDB Testing: Jest, Mocha, Chai, Jasmine, Selenium, Puppeteer 
+Node.js, Express.js, Python, Django, Sequelize, PostgreSQL, MongoDB
+
+`Testing`
+ Jest, Mocha, Chai, Jasmine, Selenium, Puppeteer 
 
 `CI/CD`
 CircleCI, Bamboo, Bitbucket Pipelines, Travis
 
 `Clouds`
-Docker, AWS, GCP, Linux
+Docker, AWS, GCP, Heroku, Linux
 
 ### Interests
 UI/UX Design, Accessibility, Messengers, Cloud Infrastructure, DevOps, Natural Language Processing
@@ -52,12 +56,13 @@ I did frontend and UI/UX work there for e-commerce applications, developed CRM u
 
 ## Education
 
-`Jan 2018 - June 2020`
-__Kharkiv National University of Radio Electronics__, _Kharkiv, Ukraine_
-- Bachelor of Science, Graduation work: "Web-application for conducting retrospective meetings with the usage of NLP algorithms"
+`2018 - 2020`
+__Kharkiv National University of Radio Electronics__, _Kharkiv, Ukraine_, Bachelor in _Software Engineering_
+- Graduation work: "Web-application for conducting retrospective
+meetings with the usage of NLP algorithms"
 
 
-`Sept 2013 - Sept 2016`
+`2013 - 2016`
 __National Technical University "Kharkiv Polytechnic Institute"__, _Kharkiv, Ukraine_
 - Studied software engineering 3 years
 

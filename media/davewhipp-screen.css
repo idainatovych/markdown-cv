@@ -189,7 +189,9 @@ strong {
 	display: none;
 }
 
-
+.city {
+	display: inline-flex;
+}
 
 /*
 @media only screen and (max-width: 480px) {
